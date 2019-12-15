@@ -1,0 +1,23 @@
+3
+a
+b
+c
+3
+S
+X1
+Y
+S
+13
+S -> aX1bX1
+S -> abX1
+S -> aX1b
+S -> ab
+X1 -> aY
+X1 -> bY
+X1 -> a
+X1 -> b
+Y -> aY
+Y -> bY
+Y -> a
+Y -> b
+Y -> c
